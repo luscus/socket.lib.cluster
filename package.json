@@ -1,31 +1,31 @@
 {
-  "name": "socket.lib.cluster",
-  "version": "0.0.1",
-  "homepage": "https://github.com/luscus/socket.lib.cluster",
-  "author": "https://github.com/luscus/socket.lib.cluster/graphs/contributors",
-  "description": "Enables sockets to communicate with a service over multiple hosts and processes",
-  "keywords": [
-    "socket.lib.cluster",
-    "socket",
-    "cluster",
-    "microservice"
-  ],
-  "dependencies": {
-    "node.extend": "1.1.2"
-  },
-  "devDependencies": {
-    "grunt": "0.4.5",
-    "grunt-contrib-clean": "0.5.0",
-    "grunt-contrib-jshint": "0.10.0",
-    "grunt-mocha-test": "0.10.2",
-    "load-grunt-tasks": "0.6.0",
-    "chai": "1.9.1",
-    "mocha": "1.21.4"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:luscus/socket.lib.cluster.git"
-  },
-  "main": "./lib/socket.lib.cluster",
-  "bugs": "https://github.com/luscus/node-socket.lib.cluster/issues"
+    "name": "socket.lib.cluster",
+    "version": "0.0.2",
+    "homepage": "https://github.com/luscus/socket.lib.cluster",
+    "author": "https://github.com/luscus/socket.lib.cluster/graphs/contributors",
+    "description": "Enables sockets to communicate with a service over multiple hosts and processes",
+    "keywords": [
+        "socket.lib.cluster",
+        "socket",
+        "cluster",
+        "microservice"
+    ],
+    "dependencies": {
+        "node.extend": "1.1.2"
+    },
+    "devDependencies": {
+        "grunt": "0.4.5",
+        "grunt-contrib-clean": "0.5.0",
+        "grunt-contrib-jshint": "0.10.0",
+        "grunt-mocha-test": "0.10.2",
+        "load-grunt-tasks": "0.6.0",
+        "chai": "1.9.1",
+        "mocha": "1.21.4"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:luscus/socket.lib.cluster.git"
+    },
+    "main": "./lib/socket.lib.cluster",
+    "bugs": "https://github.com/luscus/node-socket.lib.cluster/issues"
 }
