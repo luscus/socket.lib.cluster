@@ -11,7 +11,7 @@
         "microservice"
     ],
     "dependencies": {
-        "node.extend": "1.1.2"
+        "node.extend": "1.1.7"
     },
     "devDependencies": {
         "grunt": "0.4.5",
